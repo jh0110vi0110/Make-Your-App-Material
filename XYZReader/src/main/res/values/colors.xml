@@ -16,10 +16,24 @@
 -->
 
 <resources>
+    <!--
     <color name="photo_placeholder">#ccc</color>
 
     <color name="theme_primary">#04561A</color>
     <color name="theme_primary_dark">#04561A</color>
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
+    -->
+
+    <color name="color_primary_blueGrey">#607D8B</color>
+    <color name="color_primary_light_blueGrey">#CFD8Dc</color>
+    <color name="color_primary_dark_blueGrey">#455A64</color>
+    <color name="color_accent_amber">#FFC107</color>
+    <color name="color_text_icons_white">#FFFFFF</color>
+    <color name="color_text_primary_grey900">#212121</color>
+    <color name="color_text_secondary_grey">#757575</color>
+    <color name="color_divider_lightGrey">#BDBDBD</color>
+
+    <color name="color_photo_placeholder_grey300">#E0E0E0</color>
+
 </resources>

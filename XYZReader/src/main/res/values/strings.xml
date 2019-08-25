@@ -9,4 +9,6 @@
 
     <string name="up">Up</string>
 
+    <string name="author_placeholder">%s by %s</string>
+
 </resources>

@@ -17,12 +17,19 @@
 
 <resources>
 
-    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+    <style name="Theme.XYZ" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/color_primary_blueGrey</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark_blueGrey</item>
+        <item name="colorAccent">@color/color_accent_amber</item>
+        <item name="android:textColor">@color/color_text_primary_grey900</item>
+    </style>
+
+    <style name="Theme.XYZ.Subhead">
 
     </style>
 
-    <style name="Theme.Bacon.Detail">
-        <item name="android:statusBarColor">@android:color/transparent</item>
+    <style name="Theme.XYZ.Appbar" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:textColor">@color/color_text_icons_white</item>
     </style>
 
 </resources>
